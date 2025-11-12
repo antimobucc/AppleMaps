@@ -1,6 +1,6 @@
 # AppleMaps
 
-Whit this project i wanted to learn more about MapKit framework and its components.
+With this project i wanted to learn more about MapKit framework and its components.
 I started with recreating the interface of the application with some default components, such as:
 -Sheet modal view
 -Map compass
